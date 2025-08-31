@@ -34,7 +34,9 @@ Power BI: Interactive Dashboard, KPI Cards, Filters & Slicers
 Error metrics calculated (MAE, RMSE, MAPE) for evaluating forecast accuracy.
 (You can run prophet_model.ipynb to reproduce results — update with actual values here if available.)
 
-📸 Dashboard Preview
+
+<img width="1120" height="598" alt="dashboard png" src="https://github.com/user-attachments/assets/8752700d-eda4-4e1d-aeba-c6a3980d2159" />
+
 
 Historical Sales by Year & Month
 
